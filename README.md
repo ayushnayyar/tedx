@@ -1,6 +1,6 @@
-# tedx_submission
+# TEDx - Submission for App Dev
 
-A new Flutter application.
+Flutter app for TEDx App dev Phase 2.
 
 ## Getting Started
 
