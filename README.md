@@ -4,7 +4,7 @@ Flutter app for TEDx App dev Phase 2.
 
 ## Getting Started
 
-(https://github.com/ayushnayyar/tedx/blob/master/demo/20-12-24-00-03-14.gif)
+![Demo Animation](https://github.com/ayushnayyar/tedx/blob/master/demo/20-12-24-00-03-14.gif)
 
 This project is a starting point for a Flutter application.
 
