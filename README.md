@@ -1,6 +1,6 @@
 # TEDx - Submission for App Dev
 
-Flutter app for TEDx App dev Phase 2.
+Flutter app for TEDx App dev Phase 2. This app has been created keeping in mind material design guidelines. 
 
 ## Live Demo
 
